@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=ei-A_wy5Yxw&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ7
 
 #图灵奖得主的算法学习演讲
 包括分布式算法，并行算法得主的演讲
-https://translate.googleusercontent.com/translate_f
+https://www.youtube.com/channel/UCYoIFJ96Kn_Ziayw8av-IAA
 
 #推荐计算机英文版底层书籍--计算机体系结构
 http://htdp.org/2003-09-26/Book/curriculum-Z-H-4.html
