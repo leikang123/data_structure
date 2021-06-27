@@ -1,18 +1,20 @@
 package 红黑树;
 
 public class BinarySearchTree {
-	
+	// 定义一个数据
 	int data;
+	// 左节点
 	BinarySearchTree left;
+	// 右节点
 	BinarySearchTree right;
-	
+	// 树枝方法带参数数据
 	public BinarySearchTree(int data) {
 		this.data = data;
 		left = null;
 		right = null;
 	}
 	
-	
+	// 插入方法
 	public void insert(BinarySearchTree root,int data) {		//构建树
 		if(root.data < data) {		//根结点小于 data 插入右子树 
 			if(root.right == null) {
