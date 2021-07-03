@@ -4,7 +4,7 @@ package 赫夫曼树;
  * @author mac1094
  *
  */
-
+// 定义节点实现
 public class Node implements Comparable<Node> {
 	int value;
 	Node left;
