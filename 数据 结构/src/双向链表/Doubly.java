@@ -17,7 +17,8 @@ public class Doubly {
 		return first==null;
 		
 	}
-   // 链表的输出
+	
+       // 链表的输出
 	public void print() {
 		// 表头第一个输出
 		Node current = first;
