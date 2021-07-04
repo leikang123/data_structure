@@ -1,4 +1,6 @@
 package 红黑树;
+
+// 红黑树的属性类封装
 public class RedBlackTree {
 	
 	private final int R = 0;	//红色
