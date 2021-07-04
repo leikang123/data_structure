@@ -1,5 +1,5 @@
 package 红黑树;
-
+// 定义树类
 public class BinarySearchTree {
 	// 定义一个数据
 	int data;
@@ -31,10 +31,11 @@ public class BinarySearchTree {
 			}
 		}
 	}
-	
+	// 查找方法
 	public void find() {	
 		
 	}
+	// 前置方法
 	public void pre() {	
 			
 	}
