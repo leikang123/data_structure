@@ -24,7 +24,5 @@ public class Node implements Comparable<Node> {
 	public String toString() {
 		return "Node [value=" + value + ", left=" + left + ", right=" + right + "]";
 	}
-	
-	
 
 }
